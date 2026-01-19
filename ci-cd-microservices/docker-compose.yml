@@ -1,0 +1,24 @@
+Docker Compose Configuration
+
+This docker-compose file orchestrates multiple services
+into a single production-style application stack.
+
+Services Included
+
+Python backend
+
+Go backend
+
+Nginx reverse proxy
+
+Internal Docker network
+
+Features
+
+Service-to-service communication
+
+Isolated internal networking
+
+Port mapping via Nginx
+
+Single-command deployment
