@@ -8,7 +8,7 @@
 - Nginx
 - GitHub Actions
 - AWS EC2
-
+this is a new line 
 ## Architecture
 
 Client → Nginx → Services → Database
